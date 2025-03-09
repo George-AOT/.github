@@ -1,4 +1,4 @@
-## George's Git of Things
+## George's App of Things
 
 I just forked a bunch of repos in here as it makes it easier to find a see all of them
 
